@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkalami&display=swap");
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Alkalami", serif;
+  color: rgb(15, 15, 15);
+  height: 200vh;
+}
+
+button {
+  font-family: inherit;
+  outline: none;
+  border: none;
+  background: none;
+  letter-spacing: inherit;
+  color: inherit;
+  font-size: inherit;
+  text-align: inherit;
+  padding: 0;
+}/*# sourceMappingURL=index.css.map */
